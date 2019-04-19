@@ -1,6 +1,18 @@
-# Eric McMullen April 18, 2019.
-# Extreme Weather Alert System. Used openweathermap.org api, SMTP email sending and hosted for free on pythonanywhere.com
+# Extreme Weather Alert System
+# 2019 Eric McMullen
+# Author: Eric McMullen <ericmcmullen.com>
+# URL: <https://github.com/ericmcmullen/Extreme-Weather-Alert-System/>
 
+
+# An Extreme Weather Alert System. Used openweathermap.org api, 
+# SMTP email sending and hosted for free on pythonanywhere.com. 
+
+# The program recieves current weather information from the 
+# openweathermap.org api and sends this information by email.
+
+##//////////////////////////////////////////////////////
+##  Extreme Weather Alert System
+##//////////////////////////////////////////////////////
 
 import requests
 import time
