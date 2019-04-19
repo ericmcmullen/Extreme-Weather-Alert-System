@@ -1,2 +1,2 @@
 # Extreme Weather Alert System
-Python based API analzyed. Sends email to user once temperatures have surpassed their set limit.
+Python based API interpreter. Sends email to the user once temperatures have reached a set limit.
